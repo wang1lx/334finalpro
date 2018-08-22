@@ -91,7 +91,7 @@ _END;
 
   $rows = $result->num_rows;
 echo '<div class="col-4">';
-  echo '<img src="../pictures/water.jpg" alt="relax"  height="300" width="300"><br><br/>';
+  echo '<img src="../pictures/relax.jpg" alt="relax"  height="300" width="300"><br><br/>';
 
     echo '<p><a class="btn btn-secondary" href="main.php" role="button">Back to Main Page</a></p></div>';
      echo '<div class="col-8"><table class="table"><tbody>';
